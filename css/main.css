@@ -1,0 +1,22 @@
+.nervSelect{
+width:100px;
+cursor:pointer;
+}
+	.nervSelectReplace{
+	width:100%;
+	height:30px;
+	background:#ccc;
+	}
+		.nervSelectReplace p{
+		padding:5px;
+		}
+	.nervSelectSubber{
+	border:1px;
+	background:#eee;}
+		.nervSubberOption{width:100%;}
+		.nervSubberOption:hover{}
+		.nervSubberOption p{}
+		.nervSubberOption:hover p{
+			background:#2e93f9;
+			color:#fff !important;
+		}
